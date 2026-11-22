@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="408" height="902" viewBox="0 0 408 902" role="img" aria-labelledby="title description">
 <title id="title">Dogtiti’s GitHub activity and languages</title>
-<desc id="description">8.3k commits, 1.8k pull requests and 11.56k GitHub contributions. Monthly activity, sampled commit hours in UTC+8 and language shares by repository and commit count.</desc>
+<desc id="description">8.4k commits, 1.8k pull requests and 11.59k GitHub contributions. Monthly activity, sampled commit hours in UTC+8 and language shares by repository and commit count.</desc>
 <style>
 text { font-family: system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
 .numeric { font-family: SFMono-Regular, Consolas, "Liberation Mono", monospace; }
@@ -10,14 +10,14 @@ text { font-family: system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans
 <rect x="0.00" y="0.00" width="408.00" height="902.00" fill="#202620"/>
 <rect x="0.00" y="0.00" width="408.00" height="463.00" fill="#191e1b"/>
 <text x="20.00" y="42.00" fill="#f7f4eb" font-size="27" font-weight="750" text-anchor="start">GitHub activity</text>
-<text x="20.00" y="64.00" fill="#c9d0c7" font-size="12" font-weight="400" text-anchor="start">Snapshot · 21 Nov 2026</text>
-<text x="20.00" y="110.00" fill="#ff8a6a" font-size="31" font-weight="800" text-anchor="start">8.3k</text>
+<text x="20.00" y="64.00" fill="#c9d0c7" font-size="12" font-weight="400" text-anchor="start">Snapshot · 22 Nov 2026</text>
+<text x="20.00" y="110.00" fill="#ff8a6a" font-size="31" font-weight="800" text-anchor="start">8.4k</text>
 <text x="20.00" y="133.00" fill="#c9d0c7" font-size="13" font-weight="400" text-anchor="start">Commits</text>
 <line x1="142.67" y1="85.00" x2="142.67" y2="134.00" stroke="#485149"/>
 <text x="153.67" y="110.00" fill="#ff8a6a" font-size="31" font-weight="800" text-anchor="start">1.8k</text>
 <text x="153.67" y="133.00" fill="#c9d0c7" font-size="13" font-weight="400" text-anchor="start">Pull requests</text>
 <line x1="265.33" y1="85.00" x2="265.33" y2="134.00" stroke="#485149"/>
-<text x="276.33" y="110.00" fill="#ff8a6a" font-size="31" font-weight="800" text-anchor="start">11.56k</text>
+<text x="276.33" y="110.00" fill="#ff8a6a" font-size="31" font-weight="800" text-anchor="start">11.59k</text>
 <text x="276.33" y="133.00" fill="#c9d0c7" font-size="13" font-weight="400" text-anchor="start">Contributions</text>
 <line x1="20.00" y1="153.00" x2="388.00" y2="153.00" stroke="#485149"/>
 <text x="20.00" y="181.00" fill="#f7f4eb" font-size="14" font-weight="650" text-anchor="start">Monthly contributions</text>
@@ -28,7 +28,6 @@ text { font-family: system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans
 <text x="46.00" y="238.00" fill="#c9d0c7" font-size="10" font-weight="400" text-anchor="end" class="numeric">800</text>
 <line x1="52.00" y1="275.00" x2="388.00" y2="275.00" stroke="#485149"/>
 <text x="46.00" y="278.00" fill="#c9d0c7" font-size="10" font-weight="400" text-anchor="end" class="numeric">0</text>
-<rect x="52.00" y="274.00" width="21.85" height="1.00" fill="#a67665"><title>Nov 2025 · 1 contributions</title></rect>
 <rect x="77.85" y="273.55" width="21.85" height="1.45" fill="#c76952"><title>Dec 2025 · 29 contributions</title></rect>
 <rect x="103.69" y="273.00" width="21.85" height="2.00" fill="#c76952"><title>Jan 2026 · 40 contributions</title></rect>
 <rect x="129.54" y="272.45" width="21.85" height="2.55" fill="#c76952"><title>Feb 2026 · 51 contributions</title></rect>
@@ -40,7 +39,7 @@ text { font-family: system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans
 <rect x="284.62" y="223.35" width="21.85" height="51.65" fill="#c76952"><title>Aug 2026 · 1,033 contributions</title></rect>
 <rect x="310.46" y="196.85" width="21.85" height="78.15" fill="#ff8a6a"><title>Sep 2026 · 1,563 contributions</title></rect>
 <rect x="336.31" y="263.25" width="21.85" height="11.75" fill="#c76952"><title>Oct 2026 · 235 contributions</title></rect>
-<rect x="362.15" y="248.30" width="21.85" height="26.70" fill="#a67665"><title>Nov 2026 · 534 contributions</title></rect>
+<rect x="362.15" y="246.90" width="21.85" height="28.10" fill="#a67665"><title>Nov 2026 · 562 contributions</title></rect>
 <text x="52.00" y="290.00" fill="#c9d0c7" font-size="10" font-weight="400" text-anchor="start" class="numeric">Nov ’25</text>
 <text x="142.46" y="290.00" fill="#c9d0c7" font-size="10" font-weight="400" text-anchor="middle" class="numeric">Feb</text>
 <text x="220.00" y="290.00" fill="#c9d0c7" font-size="10" font-weight="400" text-anchor="middle" class="numeric">May</text>
@@ -54,23 +53,23 @@ text { font-family: system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans
 <text x="46.00" y="385.00" fill="#c9d0c7" font-size="10" font-weight="400" text-anchor="end" class="numeric">40</text>
 <line x1="52.00" y1="422.00" x2="388.00" y2="422.00" stroke="#485149"/>
 <text x="46.00" y="425.00" fill="#c9d0c7" font-size="10" font-weight="400" text-anchor="end" class="numeric">0</text>
-<rect x="52.00" y="396.00" width="11.00" height="26.00" fill="#8eab92"><title>00:00 UTC+8 · 26 sampled commits</title></rect>
-<rect x="66.00" y="402.00" width="11.00" height="20.00" fill="#8eab92"><title>01:00 UTC+8 · 20 sampled commits</title></rect>
-<rect x="80.00" y="416.00" width="11.00" height="6.00" fill="#8eab92"><title>02:00 UTC+8 · 6 sampled commits</title></rect>
+<rect x="52.00" y="398.00" width="11.00" height="24.00" fill="#8eab92"><title>00:00 UTC+8 · 24 sampled commits</title></rect>
+<rect x="66.00" y="406.00" width="11.00" height="16.00" fill="#8eab92"><title>01:00 UTC+8 · 16 sampled commits</title></rect>
+<rect x="80.00" y="413.00" width="11.00" height="9.00" fill="#8eab92"><title>02:00 UTC+8 · 9 sampled commits</title></rect>
 <rect x="94.00" y="420.00" width="11.00" height="2.00" fill="#8eab92"><title>03:00 UTC+8 · 2 sampled commits</title></rect>
 <rect x="164.00" y="419.00" width="11.00" height="3.00" fill="#8eab92"><title>08:00 UTC+8 · 3 sampled commits</title></rect>
 <rect x="178.00" y="395.00" width="11.00" height="27.00" fill="#8eab92"><title>09:00 UTC+8 · 27 sampled commits</title></rect>
 <rect x="192.00" y="377.00" width="11.00" height="45.00" fill="#8eab92"><title>10:00 UTC+8 · 45 sampled commits</title></rect>
-<rect x="206.00" y="366.00" width="11.00" height="56.00" fill="#8eab92"><title>11:00 UTC+8 · 56 sampled commits</title></rect>
+<rect x="206.00" y="364.00" width="11.00" height="58.00" fill="#8eab92"><title>11:00 UTC+8 · 58 sampled commits</title></rect>
 <rect x="220.00" y="366.00" width="11.00" height="56.00" fill="#8eab92"><title>12:00 UTC+8 · 56 sampled commits</title></rect>
 <rect x="234.00" y="383.00" width="11.00" height="39.00" fill="#8eab92"><title>13:00 UTC+8 · 39 sampled commits</title></rect>
 <rect x="248.00" y="374.00" width="11.00" height="48.00" fill="#8eab92"><title>14:00 UTC+8 · 48 sampled commits</title></rect>
-<rect x="262.00" y="385.00" width="11.00" height="37.00" fill="#8eab92"><title>15:00 UTC+8 · 37 sampled commits</title></rect>
+<rect x="262.00" y="383.00" width="11.00" height="39.00" fill="#8eab92"><title>15:00 UTC+8 · 39 sampled commits</title></rect>
 <rect x="276.00" y="382.00" width="11.00" height="40.00" fill="#8eab92"><title>16:00 UTC+8 · 40 sampled commits</title></rect>
-<rect x="290.00" y="344.00" width="11.00" height="78.00" fill="#8eab92"><title>17:00 UTC+8 · 78 sampled commits</title></rect>
-<rect x="304.00" y="378.00" width="11.00" height="44.00" fill="#8eab92"><title>18:00 UTC+8 · 44 sampled commits</title></rect>
+<rect x="290.00" y="342.00" width="11.00" height="80.00" fill="#8eab92"><title>17:00 UTC+8 · 80 sampled commits</title></rect>
+<rect x="304.00" y="379.00" width="11.00" height="43.00" fill="#8eab92"><title>18:00 UTC+8 · 43 sampled commits</title></rect>
 <rect x="318.00" y="372.00" width="11.00" height="50.00" fill="#8eab92"><title>19:00 UTC+8 · 50 sampled commits</title></rect>
-<rect x="332.00" y="366.00" width="11.00" height="56.00" fill="#8eab92"><title>20:00 UTC+8 · 56 sampled commits</title></rect>
+<rect x="332.00" y="368.00" width="11.00" height="54.00" fill="#8eab92"><title>20:00 UTC+8 · 54 sampled commits</title></rect>
 <rect x="346.00" y="356.00" width="11.00" height="66.00" fill="#8eab92"><title>21:00 UTC+8 · 66 sampled commits</title></rect>
 <rect x="360.00" y="361.00" width="11.00" height="61.00" fill="#8eab92"><title>22:00 UTC+8 · 61 sampled commits</title></rect>
 <rect x="374.00" y="379.00" width="11.00" height="43.00" fill="#8eab92"><title>23:00 UTC+8 · 43 sampled commits</title></rect>
@@ -104,23 +103,23 @@ text { font-family: system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans
 <text x="20.00" y="718.00" fill="#eef2ec" font-size="15" font-weight="650" text-anchor="start">By commit count</text>
 <text x="20.00" y="745.00" fill="#eef2ec" font-size="14" font-weight="650" text-anchor="start">TypeScript</text>
 <rect x="114.00" y="736.00" width="224.00" height="8.00" fill="#343e35"/>
-<rect x="114.00" y="736.00" width="164.85" height="8.00" fill="#ff8a6a"/>
-<text x="388.00" y="745.00" fill="#bec9c0" font-size="11" font-weight="400" text-anchor="end" class="numeric">73.6%</text>
+<rect x="114.00" y="736.00" width="165.03" height="8.00" fill="#ff8a6a"/>
+<text x="388.00" y="745.00" fill="#bec9c0" font-size="11" font-weight="400" text-anchor="end" class="numeric">73.7%</text>
 <text x="20.00" y="770.00" fill="#eef2ec" font-size="14" font-weight="400" text-anchor="start">Go</text>
 <rect x="114.00" y="761.00" width="224.00" height="8.00" fill="#343e35"/>
-<rect x="114.00" y="761.00" width="34.58" height="8.00" fill="#91a690"/>
+<rect x="114.00" y="761.00" width="34.48" height="8.00" fill="#91a690"/>
 <text x="388.00" y="770.00" fill="#bec9c0" font-size="11" font-weight="400" text-anchor="end" class="numeric">15.4%</text>
 <text x="20.00" y="795.00" fill="#eef2ec" font-size="14" font-weight="400" text-anchor="start">JavaScript</text>
 <rect x="114.00" y="786.00" width="224.00" height="8.00" fill="#343e35"/>
-<rect x="114.00" y="786.00" width="11.90" height="8.00" fill="#91a690"/>
+<rect x="114.00" y="786.00" width="11.86" height="8.00" fill="#91a690"/>
 <text x="388.00" y="795.00" fill="#bec9c0" font-size="11" font-weight="400" text-anchor="end" class="numeric">5.3%</text>
 <text x="20.00" y="820.00" fill="#eef2ec" font-size="14" font-weight="400" text-anchor="start">HTML</text>
 <rect x="114.00" y="811.00" width="224.00" height="8.00" fill="#343e35"/>
-<rect x="114.00" y="811.00" width="7.41" height="8.00" fill="#91a690"/>
+<rect x="114.00" y="811.00" width="7.39" height="8.00" fill="#91a690"/>
 <text x="388.00" y="820.00" fill="#bec9c0" font-size="11" font-weight="400" text-anchor="end" class="numeric">3.3%</text>
 <text x="20.00" y="845.00" fill="#eef2ec" font-size="14" font-weight="400" text-anchor="start">Vue</text>
 <rect x="114.00" y="836.00" width="224.00" height="8.00" fill="#343e35"/>
-<rect x="114.00" y="836.00" width="5.26" height="8.00" fill="#91a690"/>
+<rect x="114.00" y="836.00" width="5.24" height="8.00" fill="#91a690"/>
 <text x="388.00" y="845.00" fill="#bec9c0" font-size="11" font-weight="400" text-anchor="end" class="numeric">2.3%</text>
 <text x="20.00" y="869.00" fill="#bec9c0" font-size="12" font-weight="400" text-anchor="start">Both views use each repository’s primary language.</text>
 <text x="20.00" y="887.00" fill="#bec9c0" font-size="12" font-weight="400" text-anchor="start">Percentages are shares of the languages shown.</text>
